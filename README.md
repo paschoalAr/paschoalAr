@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Arthur Paschoal
-- 📫 Contate-me em arthur.paschoal@edu.pucrs
+- 📫 Contate-me em arthur.paschoal@edu.pucrs.br
 
 
 <div style="display: inline_block"><br>
